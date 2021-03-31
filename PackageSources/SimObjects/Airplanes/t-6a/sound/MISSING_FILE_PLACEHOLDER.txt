@@ -1,0 +1,3 @@
+"Asobo_TBM930_AI.PC" is a missing sound package file which exceeds Github's 100mb file limit.
+If you wish to add it:
+it can be found in the default MSFS TBM930 aircraft\sound folder
