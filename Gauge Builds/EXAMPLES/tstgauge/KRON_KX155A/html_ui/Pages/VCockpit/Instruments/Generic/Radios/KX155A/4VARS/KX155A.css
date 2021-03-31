@@ -1,0 +1,78 @@
+﻿:root {
+  --bodyHeightScale: 1; }
+
+@keyframes TemporaryShow {
+  0%, 100% {
+    visibility: visible; } }
+
+@keyframes TemporaryHide {
+  0%, 100% {
+    visibility: hidden; } }
+
+#highlight {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: 10; }
+
+#Electricity {
+  width: 100%;
+  height: 100%; }
+  #Electricity[state=off] {
+    display: none; }
+
+@font-face {
+  font-family: "Alarm-Clock";
+  src: url("/Pages/VCockpit/Instruments/Shared/Fonts/Quartz.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+KX155A-element {
+  width: 100%;
+  height: 100%;
+  color: yellow;
+  font-family: Alarm-Clock;
+  overflow: hidden; }
+  KX155A-element #Mainframe {
+    width: 100%;
+    height: 100%;
+    margin-left: 20px;
+    margin-top: 30px; }
+  KX155A-element #ComPanel {
+    position: absolute;
+    top: 12%;
+    left: 1%;
+    width: 48%; }
+  KX155A-element #NavPanel {
+    position: absolute;
+    top: 12%;
+    left: 49%;
+    width: 48%; }
+  KX155A-element #Separator {
+    top: 12%;
+    left: 49%;
+    width: 0%;
+    height: 75%;
+    border: 1px solid orange;
+    position: absolute; }
+  KX155A-element .Align {
+    display: inline-block; }
+  KX155A-element #ComActiveFreq {
+    margin-left: 0px;
+    font-size: 27px;
+    width: 110px;
+    text-align: left; }
+  KX155A-element #ComStandbyFreq {
+    margin-left: 4px;
+    font-size: 27px;
+    width: 110px;
+    text-align: left; }
+  KX155A-element #NavActiveFreq, KX155A-element #NavRightDisplay {
+	margin-left: 10px;
+    font-size: 27px;
+    width: 95px;
+    text-align: left; }
+  KX155A-element #NavActiveFreq {
+    margin-bottom: 4px; }
+  
+

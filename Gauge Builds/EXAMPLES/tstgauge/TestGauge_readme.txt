@@ -1,0 +1,12 @@
+ ************************************************************************************************************
+  FS2020 Test Gauge
+
+  Allows in-game display of current Simvar values.  
+  V1.2.0 / 2020-08-28
+  © 2020 - Kronzky (kronzky@gmail.com / www.kronzky.info/fs)
+ **********************************************************************************************
+  INSTALLATION:
+    The gauge is configured to replace the radio stack of the default Cessna 152.	Other planes will require different procedures.		Find your content folder (should be something like [install root]\HLM_Packages\Community or [install root]\Community)	Open the zip file, and copy the folder KRON_KX155A into this folder.		Go to the gauge folder: \Community\KRON_KX155A\html_ui\Pages\VCockpit\Instruments\Generic\Radios\KX155A	And you will see three subfolders in there:	1. 2NAVS: Only the COM elements (on the left side) are showing Simvars (distance & direction to NAVs). 	2. 4VARS: All four elements (COM1,COM2,NAV1,NAV2) are replaced by Simvars.	          The right side (with the NAV controls) stay fully funtional.	3. org:   The original sources of the modified gauge		By default, 4VARS is installed. If you like to use a different version, copy the files from that subfolder into .\KS155A	To define which Simvar values should be displayed, open the file KX155A.js, and edit the respective lines.	e.g. SimVar.GetSimVarValue("PLANE ALTITUDE", "feet").toFixed(1) etc.	The units ("feet" in the example) depend on the variable, and are defined in the documentation.	The 'toFixed(x)' appendix defines how many digits should be displayed, so adjust it as needed.	The gauge is called twice from the panel.cfg, once for the top stack, and once for the bottom one.	The variable this.radioIndex will contain a 1 for the top, and a 2 for the bottom (this value can then be used in Simvars).		The names of the Simvar variables can be found in the SDK's chm file.	
+    If the variables should be changed while the game is running, open the Airplane selection window from 	the developer toolbar, and reload the plane.        
+ **********************************************************************************************
+     

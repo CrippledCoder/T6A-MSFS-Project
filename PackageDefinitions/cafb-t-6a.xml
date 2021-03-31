@@ -1,0 +1,31 @@
+<AssetPackage Name="cafb-t-6a" Version="0.4.0">
+	<ItemSettings>
+		<ContentType>AIRCRAFT</ContentType>
+		<Title>T-6A</Title>
+		<Manufacturer>Texan II</Manufacturer>
+		<Creator>Heath Hilton</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\cafb-t-6a\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\cafb-t-6a\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="t-6a">
+			<Type>SimObject</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\SimObjects\Airplanes\t-6a\</AssetDir>
+			<OutputDir>SimObjects\Airplanes\t-6a\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

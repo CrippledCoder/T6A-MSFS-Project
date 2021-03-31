@@ -1,0 +1,339 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/cafb-t-6a/Thumbnail.jpg",
+      "size": 11335,
+      "date": 132616092950298942
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/ai.cfg",
+      "size": 1512,
+      "date": 132615935641140301
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/aircraft.cfg",
+      "size": 2463,
+      "date": 132615935643140307
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/Approach.flt",
+      "size": 2794,
+      "date": 132543494528505083
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/apron.flt",
+      "size": 3056,
+      "date": 132543494528544979
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/cameras.cfg",
+      "size": 25359,
+      "date": 132615958421993947
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/Climb.flt",
+      "size": 2797,
+      "date": 132543494528714525
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/cockpit.cfg",
+      "size": 5140,
+      "date": 132615935638742259
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/Cruise.flt",
+      "size": 2795,
+      "date": 132543494528764392
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/engines.cfg",
+      "size": 12487,
+      "date": 132615935611239217
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/Final.flt",
+      "size": 3021,
+      "date": 132543494528794312
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/flight_model.cfg",
+      "size": 11970,
+      "date": 132615935600838747
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/gameplay.cfg",
+      "size": 1224,
+      "date": 132615935639242534
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/hangar.flt",
+      "size": 3110,
+      "date": 132543494528884068
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/model/model.CFG",
+      "size": 653,
+      "date": 132399197720000000
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/model/SimpleAircraft.xml",
+      "size": 9658,
+      "date": 132615452956164212
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/model/SimpleAircraft_LOD00.bin",
+      "size": 10761920,
+      "date": 132616502280269322
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/model/SimpleAircraft_LOD00.gltf",
+      "size": 672079,
+      "date": 132616502280329160
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/panel/panel.cfg",
+      "size": 196,
+      "date": 132616520751863952
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/panel/TEST/AS1000_AttitudeBackup.css",
+      "size": 1409,
+      "date": 132543487817761613
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/panel/TEST/AS1000_AttitudeBackup.html",
+      "size": 2271,
+      "date": 132543487817821453
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/panel/TEST/AS1000_AttitudeBackup.js",
+      "size": 1383,
+      "date": 132543487817921191
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/panel/TEST/HourMeter.css",
+      "size": 2089,
+      "date": 132488199913386092
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/panel/TEST/HourMeter.html",
+      "size": 773,
+      "date": 132616510789927758
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/panel/TEST/HourMeter.js",
+      "size": 1773,
+      "date": 132422515165076818
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/runway.FLT",
+      "size": 2841,
+      "date": 132543494537909937
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/sound/Asobo_TBM930.PC.PCK",
+      "size": 110115398,
+      "date": 132543494534000388
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/sound/MyCompany_Simple_Aircraft.PC.PCK",
+      "size": 14439673,
+      "date": 132399197740000000
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/sound/sound.xml",
+      "size": 31943,
+      "date": 132543494534050253
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/soundAI/Asobo_TBM930_AI.PC.PCK",
+      "size": 7649391,
+      "date": 132543494534319535
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/soundAI/MyCompany_Simple_Aircraft_AI.PC.PCK",
+      "size": 4974772,
+      "date": 132399197740000000
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/soundAI/soundai.xml",
+      "size": 1463,
+      "date": 132422789994051369
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/systems.cfg",
+      "size": 10572,
+      "date": 132615935627539771
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/taxi.flt",
+      "size": 2836,
+      "date": 132543494534409300
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/CANOPY.PNG.DDS",
+      "size": 22369776,
+      "date": 132616515170276720
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/CANOPY.PNG.DDS.json",
+      "size": 119,
+      "date": 132616515170127119
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/CANOPY_STRUCTURE.PNG.DDS",
+      "size": 11184952,
+      "date": 132616515201190570
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/CANOPY_STRUCTURE.PNG.DDS.json",
+      "size": 102,
+      "date": 132616515201070890
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/COCKPIT_SEAT.PNG.DDS",
+      "size": 11184952,
+      "date": 132616515100247916
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/COCKPIT_SEAT.PNG.DDS.json",
+      "size": 102,
+      "date": 132616515100148183
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/COCKPIT_SIDE_PANELS.PNG.DDS",
+      "size": 11184952,
+      "date": 132616515057297137
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/COCKPIT_SIDE_PANELS.PNG.DDS.json",
+      "size": 102,
+      "date": 132616515057207377
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/COCKPIT_SYSTEMS.PNG.DDS",
+      "size": 22369776,
+      "date": 132616515155605630
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/COCKPIT_SYSTEMS.PNG.DDS.json",
+      "size": 119,
+      "date": 132616515155450991
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/COCKPIT_WALLS_FRONT.PNG.DDS",
+      "size": 11184952,
+      "date": 132616515072307215
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/COCKPIT_WALLS_FRONT.PNG.DDS.json",
+      "size": 102,
+      "date": 132616515072197511
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/COCKPIT_WALLS_REAR.PNG.DDS",
+      "size": 11184952,
+      "date": 132616515140725189
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/COCKPIT_WALLS_REAR.PNG.DDS.json",
+      "size": 102,
+      "date": 132616515140615483
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/DASHBOARD.PNG.DDS",
+      "size": 11184952,
+      "date": 132616515215392707
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/DASHBOARD.PNG.DDS.json",
+      "size": 102,
+      "date": 132616515215312918
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/DASHBOARD_REAR.PNG.DDS",
+      "size": 11184952,
+      "date": 132616515086040725
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/DASHBOARD_REAR.PNG.DDS.json",
+      "size": 102,
+      "date": 132616515085950969
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/FUSELAGE.PNG.DDS",
+      "size": 11184952,
+      "date": 132616515126777316
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/FUSELAGE.PNG.DDS.json",
+      "size": 102,
+      "date": 132616515126697530
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/FUSELAGE_NORMAL.PNG.DDS",
+      "size": 22369776,
+      "date": 132616515189161404
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/FUSELAGE_NORMAL.PNG.DDS.json",
+      "size": 177,
+      "date": 132616515188981885
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/GEAR.PNG.DDS",
+      "size": 11184952,
+      "date": 132616515113737030
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/GEAR.PNG.DDS.json",
+      "size": 102,
+      "date": 132616515113647266
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/INTAKE.PNG.DDS",
+      "size": 174904,
+      "date": 132616515100527172
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/INTAKE.PNG.DDS.json",
+      "size": 102,
+      "date": 132616515100497251
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/JOYSTICK.PNG.DDS",
+      "size": 11184952,
+      "date": 132616515184523801
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/JOYSTICK.PNG.DDS.json",
+      "size": 102,
+      "date": 132616515184424078
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/PROP.PNG.DDS",
+      "size": 1398256,
+      "date": 132616515216469828
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/PROP.PNG.DDS.json",
+      "size": 119,
+      "date": 132616515216409985
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/texture.CFG",
+      "size": 38,
+      "date": 132399197760000000
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/thumbnail.JPG",
+      "size": 409860,
+      "date": 132616093151077245
+    },
+    {
+      "path": "SimObjects/Airplanes/t-6a/TEXTURE/thumbnail_small.JPG",
+      "size": 409860,
+      "date": 132616093151077245
+    }
+  ]
+}

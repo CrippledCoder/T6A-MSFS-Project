@@ -1,0 +1,8 @@
+<Project Version="2" Name="msfs-t-6a-project" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\cafb-t-6a.xml</Package>
+	</Packages>
+</Project>
+
