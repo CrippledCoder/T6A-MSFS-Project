@@ -1,0 +1,1 @@
+C:\Users\Heath\Downloads\GdiplusAircraft2\Sources\Code\MSFS\Release\GdiPlusWasmModule.wasm

@@ -1,0 +1,91 @@
+﻿  Attitude.cpp
+  In file included from Attitude.cpp:5:
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7145,10): warning : __declspec attribute 'dllexport' is not supported [-Wignored-attributes]
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(33,36): message : expanded from macro 'DECLSPEC_EXPORT'
+Attitude.cpp(59,3): warning : field 'regionIndicatorRight' will be initialized after field 'penContourWhite' [-Wreorder-ctor]
+  In file included from Attitude.cpp:4:
+  In file included from C:\MSFS SDK\WASM\include\gdiplus/GdiPlus.h:16:
+  In file included from C:\MSFS SDK\WASM\include\gdiplus/gdiplusflat.h:6:
+  In file included from C:\MSFS SDK\WASM\include\gdiplus/FlatNVG/GdiPlusFlatImpl.h:41:
+  In file included from C:\MSFS SDK\WASM\include\gdiplus/FlatNVG/GdiPlusFlatTypes.h:30:
+C:\MSFS SDK\WASM\include\gdiplus/GdiPlusPixelFormats.h(74,15): warning : unused function 'GetPixelFormatSize' [-Wunused-function]
+C:\MSFS SDK\WASM\include\gdiplus/GdiPlusPixelFormats.h(79,15): warning : unused function 'IsAlphaPixelFormat' [-Wunused-function]
+C:\MSFS SDK\WASM\include\gdiplus/GdiPlusPixelFormats.h(84,15): warning : unused function 'IsCanonicalPixelFormat' [-Wunused-function]
+C:\MSFS SDK\WASM\include\gdiplus/GdiPlusPixelFormats.h(89,15): warning : unused function 'IsExtendedPixelFormat' [-Wunused-function]
+C:\MSFS SDK\WASM\include\gdiplus/GdiPlusPixelFormats.h(94,15): warning : unused function 'IsIndexedPixelFormat' [-Wunused-function]
+  In file included from Attitude.cpp:4:
+  In file included from C:\MSFS SDK\WASM\include\gdiplus/GdiPlus.h:27:
+C:\MSFS SDK\WASM\include\gdiplus/gdiplusimagecodec.h(15,19): warning : unused function 'GetImageDecoders' [-Wunused-function]
+C:\MSFS SDK\WASM\include\gdiplus/gdiplusimagecodec.h(25,19): warning : unused function 'GetImageDecodersSize' [-Wunused-function]
+C:\MSFS SDK\WASM\include\gdiplus/gdiplusimagecodec.h(34,19): warning : unused function 'GetImageEncoders' [-Wunused-function]
+C:\MSFS SDK\WASM\include\gdiplus/gdiplusimagecodec.h(44,19): warning : unused function 'GetImageEncodersSize' [-Wunused-function]
+  In file included from Attitude.cpp:5:
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7150,19): warning : unused function 'query_routine_610' [-Wunused-function]
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7155,19): warning : unused function 'install_routine_610' [-Wunused-function]
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7160,19): warning : unused function 'initialize_routine_610' [-Wunused-function]
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7165,19): warning : unused function 'update_routine_610' [-Wunused-function]
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7170,19): warning : unused function 'generate_routine_610' [-Wunused-function]
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7175,19): warning : unused function 'draw_routine_610' [-Wunused-function]
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7180,19): warning : unused function 'kill_routine_610' [-Wunused-function]
+  Compass.cpp
+  In file included from Compass.cpp:5:
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7145,10): warning : __declspec attribute 'dllexport' is not supported [-Wignored-attributes]
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(33,36): message : expanded from macro 'DECLSPEC_EXPORT'
+Compass.cpp(47,3): warning : field 'brushGray' will be initialized after field 'penWhite' [-Wreorder-ctor]
+Compass.cpp(142,10): warning : unused variable 'fSize' [-Wunused-variable]
+  In file included from Compass.cpp:4:
+  In file included from C:\MSFS SDK\WASM\include\gdiplus/GdiPlus.h:16:
+  In file included from C:\MSFS SDK\WASM\include\gdiplus/gdiplusflat.h:6:
+  In file included from C:\MSFS SDK\WASM\include\gdiplus/FlatNVG/GdiPlusFlatImpl.h:41:
+  In file included from C:\MSFS SDK\WASM\include\gdiplus/FlatNVG/GdiPlusFlatTypes.h:30:
+C:\MSFS SDK\WASM\include\gdiplus/GdiPlusPixelFormats.h(74,15): warning : unused function 'GetPixelFormatSize' [-Wunused-function]
+C:\MSFS SDK\WASM\include\gdiplus/GdiPlusPixelFormats.h(79,15): warning : unused function 'IsAlphaPixelFormat' [-Wunused-function]
+C:\MSFS SDK\WASM\include\gdiplus/GdiPlusPixelFormats.h(84,15): warning : unused function 'IsCanonicalPixelFormat' [-Wunused-function]
+C:\MSFS SDK\WASM\include\gdiplus/GdiPlusPixelFormats.h(89,15): warning : unused function 'IsExtendedPixelFormat' [-Wunused-function]
+C:\MSFS SDK\WASM\include\gdiplus/GdiPlusPixelFormats.h(94,15): warning : unused function 'IsIndexedPixelFormat' [-Wunused-function]
+  In file included from Compass.cpp:4:
+  In file included from C:\MSFS SDK\WASM\include\gdiplus/GdiPlus.h:27:
+C:\MSFS SDK\WASM\include\gdiplus/gdiplusimagecodec.h(15,19): warning : unused function 'GetImageDecoders' [-Wunused-function]
+C:\MSFS SDK\WASM\include\gdiplus/gdiplusimagecodec.h(25,19): warning : unused function 'GetImageDecodersSize' [-Wunused-function]
+C:\MSFS SDK\WASM\include\gdiplus/gdiplusimagecodec.h(34,19): warning : unused function 'GetImageEncoders' [-Wunused-function]
+C:\MSFS SDK\WASM\include\gdiplus/gdiplusimagecodec.h(44,19): warning : unused function 'GetImageEncodersSize' [-Wunused-function]
+  In file included from Compass.cpp:5:
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7150,19): warning : unused function 'query_routine_610' [-Wunused-function]
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7155,19): warning : unused function 'install_routine_610' [-Wunused-function]
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7160,19): warning : unused function 'initialize_routine_610' [-Wunused-function]
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7165,19): warning : unused function 'update_routine_610' [-Wunused-function]
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7170,19): warning : unused function 'generate_routine_610' [-Wunused-function]
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7175,19): warning : unused function 'draw_routine_610' [-Wunused-function]
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7180,19): warning : unused function 'kill_routine_610' [-Wunused-function]
+  Bitmap.cpp
+  In file included from Bitmap.cpp:5:
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7145,10): warning : __declspec attribute 'dllexport' is not supported [-Wignored-attributes]
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(33,36): message : expanded from macro 'DECLSPEC_EXPORT'
+Bitmap.cpp(96,10): warning : unused variable 'fSize' [-Wunused-variable]
+  In file included from Bitmap.cpp:4:
+  In file included from C:\MSFS SDK\WASM\include\gdiplus/GdiPlus.h:16:
+  In file included from C:\MSFS SDK\WASM\include\gdiplus/gdiplusflat.h:6:
+  In file included from C:\MSFS SDK\WASM\include\gdiplus/FlatNVG/GdiPlusFlatImpl.h:41:
+  In file included from C:\MSFS SDK\WASM\include\gdiplus/FlatNVG/GdiPlusFlatTypes.h:30:
+C:\MSFS SDK\WASM\include\gdiplus/GdiPlusPixelFormats.h(74,15): warning : unused function 'GetPixelFormatSize' [-Wunused-function]
+C:\MSFS SDK\WASM\include\gdiplus/GdiPlusPixelFormats.h(79,15): warning : unused function 'IsAlphaPixelFormat' [-Wunused-function]
+C:\MSFS SDK\WASM\include\gdiplus/GdiPlusPixelFormats.h(84,15): warning : unused function 'IsCanonicalPixelFormat' [-Wunused-function]
+C:\MSFS SDK\WASM\include\gdiplus/GdiPlusPixelFormats.h(89,15): warning : unused function 'IsExtendedPixelFormat' [-Wunused-function]
+C:\MSFS SDK\WASM\include\gdiplus/GdiPlusPixelFormats.h(94,15): warning : unused function 'IsIndexedPixelFormat' [-Wunused-function]
+  In file included from Bitmap.cpp:4:
+  In file included from C:\MSFS SDK\WASM\include\gdiplus/GdiPlus.h:27:
+C:\MSFS SDK\WASM\include\gdiplus/gdiplusimagecodec.h(15,19): warning : unused function 'GetImageDecoders' [-Wunused-function]
+C:\MSFS SDK\WASM\include\gdiplus/gdiplusimagecodec.h(25,19): warning : unused function 'GetImageDecodersSize' [-Wunused-function]
+C:\MSFS SDK\WASM\include\gdiplus/gdiplusimagecodec.h(34,19): warning : unused function 'GetImageEncoders' [-Wunused-function]
+C:\MSFS SDK\WASM\include\gdiplus/gdiplusimagecodec.h(44,19): warning : unused function 'GetImageEncodersSize' [-Wunused-function]
+  In file included from Bitmap.cpp:5:
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7150,19): warning : unused function 'query_routine_610' [-Wunused-function]
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7155,19): warning : unused function 'install_routine_610' [-Wunused-function]
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7160,19): warning : unused function 'initialize_routine_610' [-Wunused-function]
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7165,19): warning : unused function 'update_routine_610' [-Wunused-function]
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7170,19): warning : unused function 'generate_routine_610' [-Wunused-function]
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7175,19): warning : unused function 'draw_routine_610' [-Wunused-function]
+C:\MSFS SDK\WASM\include\MSFS\Legacy\gauges.h(7180,19): warning : unused function 'kill_routine_610' [-Wunused-function]
+Bitmap.cpp(64,20): warning : unused variable 'g_BitmapVars' [-Wunused-variable]
+  GdiPlusWasmModule.vcxproj -> C:\Users\Heath\Downloads\GdiplusAircraft2\Sources\Code\MSFS\Release\GdiPlusWasmModule.wasm
+          1 file(s) copied.

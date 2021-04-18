@@ -26,6 +26,14 @@
 			<AssetDir>PackageSources\SimObjects\Airplanes\t-6a\</AssetDir>
 			<OutputDir>SimObjects\Airplanes\t-6a\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="t-6a_Data">
+			<Type>Copy</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Data</AssetDir>
+			<OutputDir>Data\</OutputDir>
+		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
 
